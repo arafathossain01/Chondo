@@ -11,7 +11,7 @@
         @apply font-semibold text-2xl p-2 md:text-2xl md:pb-3 ;
     }
     .parent_poem{
-        @apply w-full max-w-md overflow-y-auto px-1 md:max-h-none md:overflow-y-hidden md:max-w-3xl md:flex md:justify-center;
+        @apply w-full max-w-md overflow-y-auto px-3 md:max-h-none md:overflow-y-hidden md:max-w-3xl md:flex md:justify-center;
     }
     .poem{
        
